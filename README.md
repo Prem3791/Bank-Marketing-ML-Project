@@ -54,6 +54,6 @@ This project applies supervised machine learning to predict whether a customer w
 ---
 
 ## 📄 Original Project Report
-📎 [Bank_Marketing_Project_Report.pdf](./Bank_Marketing_Project_Report.pdf)
+📎 [BANK Final Project - ML.pdf](./BANK%20Final%20Project%20-%20ML.pdf)
 
 
